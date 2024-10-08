@@ -1,0 +1,1 @@
+fiz os seguintes testes: passar a lista de codigos postais ao programa para agregar os dados; testei o procurar codigos postais, testei o mostrar todos os dados
